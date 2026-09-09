@@ -42,7 +42,7 @@ const linhas = NICHOS.map(
 
 const notes = `## Escritório Virtual ${tag}
 
-Bônus dos pacotes Bravy / ASV Digital. Painel standalone com 57 agentes simulados trabalhando 24/7, por nicho.
+Bônus dos pacotes HL. Painel standalone com 57 agentes simulados trabalhando 24/7, por nicho.
 
 ### Downloads (1 zip por nicho)
 
@@ -83,4 +83,4 @@ const cmd = [
 
 execSync(cmd, { cwd: ROOT, stdio: "inherit" });
 
-console.log(`\n✓ Release ${tag} publicado em github.com/asv-digital/escritorio-virtual/releases/tag/${tag}`);
+console.log(`\n✓ Release ${tag} publicado em github.com/heitorsantos98assis-lang/escritorio-virtual/releases/tag/${tag}`);

@@ -2,7 +2,7 @@
   "name": "escritorio-virtual",
   "version": "0.1.0-alpha.1",
   "private": true,
-  "description": "Painel visual de simulação 24/7 dos 57 agentes Bravy — bônus pacotes ASV Digital",
+  "description": "Painel visual de simulação 24/7 dos 57 agentes HL — bônus pacotes HL",
   "scripts": {
     "dev": "tsx tools/pwa/generate-manifest.ts && next dev -p 3030",
     "build": "tsx tools/pwa/generate-manifest.ts && next build && tsx tools/pwa/inject-sw-version.ts",

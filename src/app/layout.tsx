@@ -26,17 +26,17 @@ const themeStyle = `:root {
 }`;
 
 export const metadata: Metadata = {
-  title: `${catalog.metadata.titulo_painel} — Bravy`,
+  title: `${catalog.metadata.titulo_painel} — HL`,
   description: catalog.metadata.descricao,
   applicationName: catalog.metadata.titulo_painel,
-  authors: [{ name: "Bravy / ASV Digital", url: "https://asv.digital" }],
+  authors: [{ name: "HL", url: "https://HL.digital" }],
   keywords: [
     "escritório virtual",
     "agentes",
     "ia",
     catalog.nicho,
-    "bravy",
-    "asv digital",
+    "HL",
+    "HL",
   ],
   manifest: "/manifest.webmanifest",
   icons: {

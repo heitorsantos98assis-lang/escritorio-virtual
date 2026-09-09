@@ -15,7 +15,7 @@ export function gerarLeiame(nicho: Nicho, versao: string): string {
 
   return `# ${titulo}
 
-Bônus dos pacotes da **Bravy / ASV Digital**. Painel que mostra seus **57 agentes** trabalhando 24/7 — ${exemplos} e muito mais.
+Bônus dos pacotes da **HL**. Painel que mostra seus **57 agentes** trabalhando 24/7 — ${exemplos} e muito mais.
 
 > Funciona **offline**. Sem servidor. Sem mensalidade. É seu pra sempre.
 
@@ -50,10 +50,10 @@ Clique em **Configurar** no canto superior direito:
 
 Quando lançarmos novos agents (ou melhorarmos a simulação), você baixa o zip novo e substitui. Suas configurações ficam intactas (salvas no navegador).
 
-Repositório: \`asv-digital/escritorio-virtual\` · Versão: ${versao}
+Repositório: \`HL/escritorio-virtual\` · Versão: ${versao}
 
 ---
 
-**Suporte:** produtos@asv.digital
+**Suporte:** produtos@HL.digital
 `;
 }

@@ -1,6 +1,6 @@
 # Escritório Virtual 24h
 
-Painel visual de simulação 24/7 dos 57 agentes Bravy — **bônus dos pacotes de skills/agents da ASV Digital**.
+Painel visual de simulação 24/7 dos 57 agentes HL — **bônus dos pacotes de skills/agents da HL**.
 
 > 57 funcionários sem CLT trabalhando na palma da sua mão. Personalizado com o nome da sua empresa e dos seus clientes. Funciona offline. Sem servidor.
 
@@ -10,12 +10,12 @@ Produto entregue como **ZIP standalone por nicho** — cliente baixa, descompact
 
 | Nicho | Repo do pacote | Status |
 |---|---|---|
-| Contadores | `asv-digital/agents-contadores` | ✅ Sprint 1 (MVP) |
-| Advogados | `asv-digital/agents-advogados` | 🕒 Sprint 5 |
-| Engenheiros | `asv-digital/agents-engenheiros` | 🕒 Sprint 5 |
-| Arquitetos | `asv-digital/agents-arquitetos` | 🕒 Sprint 5 |
-| Marketing | `asv-digital/agents-agencia-marketing` | 🕒 Sprint 5 |
-| Funcionários | `asv-digital/agents-funcionarios` | 🕒 Sprint 5 |
+| Contadores | `HL/agents-contadores` | ✅ Sprint 1 (MVP) |
+| Advogados | `HL/agents-advogados` | 🕒 Sprint 5 |
+| Engenheiros | `HL/agents-engenheiros` | 🕒 Sprint 5 |
+| Arquitetos | `HL/agents-arquitetos` | 🕒 Sprint 5 |
+| Marketing | `HL/agents-agencia-marketing` | 🕒 Sprint 5 |
+| Funcionários | `HL/agents-funcionarios` | 🕒 Sprint 5 |
 
 ## Stack
 
@@ -65,4 +65,4 @@ Detalhes em [`OPERACAO.md`](./OPERACAO.md): como atualizar catálogo, adicionar 
 
 ## Licença
 
-Proprietary — Bravy / ASV Digital.
+Proprietary — HL.

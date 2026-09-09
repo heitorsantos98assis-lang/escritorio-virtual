@@ -17,7 +17,7 @@
 
 ## Sincronizar catálogo com os repos `agents-*`
 
-Cada nicho deve ter exatamente **57 agents**, mapeando 1:1 com os `agents/*.md` do repo correspondente (`asv-digital/agents-contadores`, etc).
+Cada nicho deve ter exatamente **57 agents**, mapeando 1:1 com os `agents/*.md` do repo correspondente (`HL/agents-contadores`, etc).
 
 Quando o repo do pacote ganhar agent novo:
 

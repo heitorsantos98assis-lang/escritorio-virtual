@@ -26,7 +26,7 @@ export default function Painel() {
         </div>
       </main>
       <footer className="border-t border-[var(--border)] py-6 text-center font-mono text-[10px] uppercase tracking-[0.3em] text-[var(--fg-mute)]">
-        Bravy · ASV Digital · Escritório Virtual 24h
+        HL · Escritório Virtual 24h
       </footer>
     </>
   );

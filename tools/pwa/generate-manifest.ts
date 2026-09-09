@@ -79,7 +79,7 @@ function gerarParaNicho(nicho: string) {
 
   // Manifest
   const manifest = {
-    name: `${catalog.metadata.titulo_painel} — Bravy`,
+    name: `${catalog.metadata.titulo_painel} — HL`,
     short_name: `Escritório ${SHORT_NAME[nicho] || ""}`.trim(),
     description: catalog.metadata.descricao,
     start_url: "/",

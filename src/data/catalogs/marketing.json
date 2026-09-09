@@ -1583,16 +1583,16 @@
       ]
     },
     {
-      "id": "ia-agencia-stack-claude-midjourney-runway",
-      "nome": "IA Agencia Stack Claude Midjourney Runway",
+      "id": "ia-agencia-stack-Codex-midjourney-runway",
+      "nome": "IA Agencia Stack Codex Midjourney Runway",
       "categoria": "Prospecção",
       "icone": "user-plus",
       "cor": "#FF4D8D",
-      "descricao": "Especialista em adocao de IA na agencia de marketing digital — stack completa (Claude Sonnet 4.7 / GPT-5 para texto + processo + analise + Claude Code para automacao; Midjourney...",
+      "descricao": "Especialista em adocao de IA na agencia de marketing digital — stack completa (GPT-5.3-Codex / GPT-5 para texto + processo + analise + Codex para automacao; Midjourney...",
       "tarefas_template": [
-        "Criando IA Agencia Stack Claude Midjourney Runway — {cliente}",
-        "Otimizando IA Agencia Stack Claude Midjourney Runway — {cliente}",
-        "Analisando IA Agencia Stack Claude Midjourney Runway — {cliente}",
+        "Criando IA Agencia Stack Codex Midjourney Runway — {cliente}",
+        "Otimizando IA Agencia Stack Codex Midjourney Runway — {cliente}",
+        "Analisando IA Agencia Stack Codex Midjourney Runway — {cliente}",
         "Validando saída — {cliente}"
       ],
       "duracao_seg": {
